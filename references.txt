@@ -1,0 +1,13 @@
+https://www.techgeekbuzz.com/blog/how-to-read-emails-in-python/
+https://www.youtube.com/watch?v=NQ6s4JFhGcc
+https://developers.google.com/workspace/guides/create-project
+https://developers.google.com/workspace/guides/view-turn-off-apis
+https://github.com/jeremyephron/simplegmail
+https://www.youtube.com/watch?v=YVjXwyJlHgg
+https://community.atlassian.com/t5/Jira-Software-questions/How-to-get-URL-to-a-created-issue-from-API/qaq-p/1580117
+https://community.atlassian.com/t5/Jira-Software-questions/How-can-I-get-an-issue-url-that-can-be-navigated-to-in-the/qaq-p/1500948
+https://console.cloud.google.com/apis/credentials?authuser=5&project=pytest-414318&supportedpurview=project
+https://github.com/jeremyephron/simplegmail/tree/master
+https://github.com/iam-veeramalla/python-for-devops/blob/main/Day-14/examples/create-jira.py
+https://www.youtube.com/watch?v=lEQ68HhpO4g&t=870s
+https://www.youtube.com/watch?v=viQo9Dj_uX8

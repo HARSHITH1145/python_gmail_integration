@@ -1,0 +1,5 @@
+simplegmail
+jira
+requests
+requests-oauthlib
+requests-toolbelt
